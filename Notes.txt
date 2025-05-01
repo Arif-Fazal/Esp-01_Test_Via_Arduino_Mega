@@ -1,0 +1,1 @@
+In some Esp-8266 modules like Esp-01s the " EN " is used instead of " CH_PD"
